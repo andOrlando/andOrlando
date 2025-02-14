@@ -12,7 +12,7 @@ A list of everything I've ever written that's beyond tech demo level
 - [color](https://github.com/andOrlando/color) second of two awesomeWM libraries, has a very easy to use API for color conversion
 - [rubato](https://github.com/andOrlando/rubato) first of two awesomeWM libraries, does kinematics-based animation (and I'm very proud of it)
 
-Research projects I've contributed to
+Research I've contributed to
 ---
 
 - [RightTyper](https://github.com/RightTyper/RightTyper) with Programming Languages And Systems at Amherst (PLASMA). I contributed to restructuring of sampling (moving away from an accumulation-based model to keeping track of each individual function call), contributed to generic handling (specifically testing and the actual code-generation and dataflow changes needed to accomedate it) and made the interrupt system compatible with Windows.
@@ -26,11 +26,11 @@ Code I've collaborated with others on
   - [bad apple in google calendar](https://github.com/PianoPanda/2024_HackHer413) [video link](https://www.youtube.com/watch?v=P6NUBAzFOSc) bad apple but it's made in google calendar, pretty self-explanatory.
   - [RISC-V.js](https://github.com/PianoPanda/HackUMASSXI) a (almost) fully featured RISC-V emulator written in javascript so you can run binaries in the browser
 
-- **with [felix](https://github.com/bennett-felix-software)**
+- **[with felix](https://github.com/bennett-felix-software)**
   - [bfbbfb](https://github.com/bennett-felix-software/bfbbfb) BrainFrick compiler and interpreter (and more stuff), written in BrainFrick compiled from a custom DSL written in python. Basically just bootstrapped BrainFrick. Also includes a helpful CLI!
   - [solitaire cipher golf](https://github.com/bennett-felix-software/Pontifex) a really really short implementation of solitaire cipher
   - [nim](https://github.com/bennett-felix-software/nim) a tui-esque web-based 2-player (or pve) game
 
 - **with school clubs**
   - [IUCG Insights](https://github.com/build-umass/iucg-insights) a blog app for Isenberg Undergraduate Consulting Group written with BUILD UMass. I wrote a lot of it
-  - [aspine](https://github.com/Aspine/aspine) a frontend for Aspen, my highschool's grade portal. I did a bunch of UI for it and a ton of people in my highschool used it
+  - [aspine](https://github.com/Aspine/aspine) a frontend for Aspen, my highschool's grade portal. I wrote a lot of UI code for it.
