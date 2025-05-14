@@ -28,7 +28,7 @@ Code I've collaborated with others on
   - [RISC-V.js](https://github.com/PianoPanda/HackUMASSXI) a (almost) fully featured RISC-V emulator written in javascript so you can run binaries in the browser
 
 - **[with felix](https://github.com/bennett-felix-software)**
-  - [bfbbfb](https://github.com/bennett-felix-software/bfbbfb) BrainFrick compiler and interpreter (and more stuff), written in BrainFrick compiled from a custom DSL written in python. Basically just bootstrapped BrainFrick. Also includes a helpful CLI!
+  - [bfbbfb](https://github.com/bennett-felix-software/bfbbfb) BrainFrick compiler, interpreter and functioning turing machine (and more stuff), written in BrainFrick compiled from a custom DSL written in python. Basically just bootstrapped BrainFrick. Proves by simulation that Brainfuck is Turing-complete. Also includes a helpful CLI!
   - [solitaire cipher golf](https://github.com/bennett-felix-software/Pontifex) a really really short implementation of solitaire cipher
   - [nim](https://github.com/bennett-felix-software/nim) a tui-esque web-based 2-player (or pve) game
 
