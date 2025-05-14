@@ -22,6 +22,7 @@ Code I've collaborated with others on
 ---
 
 - **with my hackathon friends**
+  - [Gitcoin](https://github.com/BananaMiku/Gitcoin) Commit hashes are based off the previous commit, ledgers are based off the previous block. Git + cryptocurrency = Gitcoin. This is not a serious cryptocurrency project, it's us learning how cryptocurrencies work by making basically a tech demo with a great name. Unless you want to invest, in which case it's a super-serious cryptocurrency that's the future of finance.
   - [eRPC](https://github.com/PianoPanda/HackUMASSXII) new remote protocol framework, way easier to use than gRPC, I may continue working on this later
   - [bad apple in google calendar](https://github.com/PianoPanda/2024_HackHer413) [video link](https://www.youtube.com/watch?v=P6NUBAzFOSc) bad apple but it's made in google calendar, pretty self-explanatory.
   - [RISC-V.js](https://github.com/PianoPanda/HackUMASSXI) a (almost) fully featured RISC-V emulator written in javascript so you can run binaries in the browser
