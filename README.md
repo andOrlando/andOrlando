@@ -5,7 +5,6 @@ A list of everything I've ever written that's beyond tech demo level
 - [save-manager](https://github.com/andOrlando/save-manager) incredibly useful git-esque save-manager for games (or really anything)
 - [spellingtiff](https://github.com/andOrlando/spellingtiff) clones of the NYT crossword (currently broken?) and spelling bee
 - [andorlando.github.io](https://github.com/andOrlando/andorlando.github.io) [real link](https://andorlando.github.io) my personal website, has some interesting ui decisions
-- [homework-scripts](https://github.com/andOrlando/homework-scripts) a collection of homework scripts that's really just a bunch of web-automation in vanilla js
 - [nix-dotfiles](https://github.com/andOrlando/nix-dotfiles) has my new awesomeWM config, is all nix-based, and is what I use today
 - [dotfiles](https://github.com/andOrlando/dotfiles) has my old awesomeWM config
 - [awesome-widgets](https://github.com/andOrlando/awesome-widgets) not really a library, but a collection of really well animated awesomeWM widgets I made
