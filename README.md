@@ -21,6 +21,7 @@ Code I've collaborated with others on
 ---
 
 - **with my hackathon friends**
+  - [Trust Me Bro](https://github.com/BananaMiku/Trust-Me-Bro) Intended to be ran on LLM providers' systems, collects GPU utlization statistics in an attempt to fingerprint what model is currently running and exfiltrates the data while ensuring it hasn't been tampered with via the Trusted Platform Module (and Linux IMA). This lets end users of LLMs be able to verify that the model they requested to be ran is actually the model that was ran on the LLM provider's system.
   - [Gitcoin](https://github.com/BananaMiku/Gitcoin) Commit hashes are based off the previous commit, ledgers are based off the previous block. Git + cryptocurrency = Gitcoin. This is not a serious cryptocurrency project, it's us learning how cryptocurrencies work by making basically a tech demo with a great name. Unless you want to invest, in which case it's a super-serious cryptocurrency that's the future of finance.
   - [eRPC](https://github.com/PianoPanda/HackUMASSXII) new remote protocol framework, way easier to use than gRPC, I may continue working on this later
   - [bad apple in google calendar](https://github.com/PianoPanda/2024_HackHer413) [video link](https://www.youtube.com/watch?v=P6NUBAzFOSc) bad apple but it's made in google calendar, pretty self-explanatory.
@@ -28,9 +29,9 @@ Code I've collaborated with others on
 
 - **[with felix](https://github.com/bennett-felix-software)**
   - [bfbbfb](https://github.com/bennett-felix-software/bfbbfb) BrainFrick compiler, interpreter and functioning turing machine (and more stuff), written in BrainFrick compiled from a custom DSL written in python. Basically just bootstrapped BrainFrick. Proves by simulation that Brainfuck is Turing-complete. Also includes a helpful CLI!
-  - [solitaire cipher golf](https://github.com/bennett-felix-software/Pontifex) a really really short implementation of solitaire cipher
+  - [solitaire cipher golf](https://github.com/bennett-felix-software/Pontifex) a really really really short implementation of solitaire cipher
   - [nim](https://github.com/bennett-felix-software/nim) a tui-esque web-based 2-player (or pve) game
 
 - **with school clubs**
-  - [IUCG Insights](https://github.com/build-umass/iucg-insights) a blog app for Isenberg Undergraduate Consulting Group written with BUILD UMass. I wrote a lot of it
-  - [aspine](https://github.com/Aspine/aspine) a frontend for Aspen, my highschool's grade portal. I wrote a lot of UI code for it.
+  - [IUCG Insights](https://github.com/build-umass/iucg-insights) a blog app for Isenberg Undergraduate Consulting Group written with BUILD UMass. I wrote a lot of it since I was Project Lead
+  - [aspine](https://github.com/Aspine/aspine) a frontend for Aspen, my highschool's grade portal. I wrote a lot of UI code for it
