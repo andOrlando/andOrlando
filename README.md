@@ -32,6 +32,10 @@ Code I've collaborated with others on
   - [solitaire cipher golf](https://github.com/bennett-felix-software/Pontifex) a really really really short implementation of solitaire cipher
   - [nim](https://github.com/bennett-felix-software/nim) a tui-esque web-based 2-player (or pve) game
 
+- **with computer engineering peeps**
+  - [dog](https://github.com/theokrueger/dog) is a parametrically generated [VLIW](https://en.wikipedia.org/wiki/Very_long_instruction_word) processor (in that we can vary instruction widths parametrically) written in Icarus Verilog, see the poster [here](https://drive.google.com/file/d/12e1XdAbWKK5MAchVkQpjex8-lVEV0fcb/view?usp=sharing) (this link might die if my college kills my google account)
+  - [parakeyt](https://github.com/parakeyt) parametrically generated hall-effect keyboards, will generate a 3D printable case and a PCB from a webpage which you can then assemble yourself for your dream keyboard
+
 - **with school clubs**
   - [IUCG Insights](https://github.com/build-umass/iucg-insights) a blog app for Isenberg Undergraduate Consulting Group written with BUILD UMass. I wrote a lot of it since I was Project Lead
   - [aspine](https://github.com/Aspine/aspine) a frontend for Aspen, my highschool's grade portal. I wrote a lot of UI code for it
